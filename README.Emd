@@ -1,0 +1,44 @@
+<br/>
+<p align="center">
+  <a href="https://github.com/Exar04/TheFoodBridge">
+    <img src="" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">The Food Bridge</h3>
+
+  <p align="center">
+    A Google DSC Solution challenge Submission.
+    <br/>
+    <br/>
+    <a href="https://github.com/Exar04/TheFoodBridge"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+  </p>
+</p>
+
+![Downloads](https://img.shields.io/github/downloads/Exar04/TheFoodBridge/total) ![Contributors](https://img.shields.io/github/contributors/Exar04/TheFoodBridge?color=dark-green) ![Forks](https://img.shields.io/github/forks/Exar04/TheFoodBridge?style=social) ![Stargazers](https://img.shields.io/github/stars/Exar04/TheFoodBridge?style=social) ![Issues](https://img.shields.io/github/issues/Exar04/TheFoodBridge) ![License](https://img.shields.io/github/license/Exar04/TheFoodBridge) 
+
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
+
+## About The Project
+
+![Screen Shot](images/screenshot.png)
+
+This Is a Food Donation app where the ____
+
+## Built With
+
+Frontend :- HTML,CSS Java Script ,Express js ,node js.
+Google Technology used:- Firebase.
